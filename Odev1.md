@@ -1,22 +1,18 @@
 
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-10-A  | Beyza Nur Azbaz | 380
-10-A   | Ayşe Yakar | 451
-10-A   | Muhammet Ali Ağırman | 425
+Sınıf | Öğrenci İsmi    | Numara
+------|-----------------|--------
+9-E   |    Duru Arslan  | 537
+9-E   |    Arzu Çetin   | 618
 
-#  Photograph of a Television Screen
+#  ROCKING   BOTTLE
 ## Özet
- Öncelikle bizim takım olarak seçtiğimiz proje 1991 yılından olan 'Photograph of a Television Screen' sorusudur. Amacımız sahip olduğumuz bir fotoğraf makinesinin shutter (fotoğraf makinesi kapağı) hızını ve exposure time'ını (poz süresi) hesaplamaktır.
- Shutter bir fotoğraf makinesinin fotoğraf  çekerken açılıp kapanan kapağıdır. Exposure time ise fotoğraf çekerken fotoğraf makinesinin ışık aldığı süredir. 
- Seçtiğimiz bu soruyu yaparken fotoğraf makinesi ve bir videodan yararlanacağız. Fotoğraf makinesini hızlı çekime alıp videonun fotoğraflarını çekeceğiz. Videonun süresi ve çektiğimiz fotoğraf sayısından, fotoğraf makinemizin shutter hızını hesaplayacağız. Exposure time'ı ise fotoğraf makinesini fotoğraf çekerken videoya alarak hesaplayacağız. Fotoğraf çekerken makinenin kapağının kapanmasına kadar geçen süre bize fotoğraf makinemizin ışık alma süresini verecek.
-
-
+ Öncelikle bizim takım olarak seçtiğimiz proje 2012 yılına ait olan 'ROCKING BOTTLE' sorusudur. Bir miktar sıvı ile doldurulan şişeyi yatay bir yüzeye koyduktan sonra ittirdiğimiz zamanki ve durduktan sonraki hareketlerinin hangi durumlarda nasıl değiştiğini araştırdık. Bu durum çeşitli parametrelere göre değişim göstermektedir:
+  Bu parametrelerden ilki şişedeki sıvının yoğunluğu/ağırlığıdır. Örneğin ilk şişeye bir miktar su diğer şişeye ise bir miktar fazla katı olmayan yoğurt doldurulduğu zaman iki şişenin hareketi birbirlerinden farklı olur. 
+  İkinci parametre ise şişedeki sıvının miktarıdır. Cinsleri aynı olmak üzere şişelere doldurulan çeşitli miktardaki sıvıların aynı kuvvvetle ittirildikleri zamanki hareketleri birbirlerinden farklı olur.
+  Son parametremiz ise şişenin yuvarlandığı yüzeyin kayganlık durumudur. Örnek vermek gerekirse halı gibi cismin fazla sürtünmeye uğradığı bir yüzeyde ittirilen şişenin hareketi ile yağlı ve kaygan bir yüzeyde ittirilen şişenin yuvarlanma mesafesi ve durduktan sonraki hareketleri aynı olmayabilir.
+  
 ## Kaynakçalar  
 
- 1. Hiscocks, Peter D. “Measuring Camera Shutter Speed”. Ryerson University. 
-https://www.ee.ryerson.ca/~phiscock/astronomy/light-pollution/shutter-cal.pdf
- Son Erişim Tarihi: 24 Mayıs 2010
- 2. https://www.youtube.com/watch?v=gL8YAoJFzkg&t=110s
- 3. Jacobson, R.E. 2000. The Manual of Photography: Photographic and Digital Imaging (9. Baskı). Oxford, UK: Focal Press.
+ 1. TDK Sözlüğü
+ 2. https://www.google.com.tr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjIg5v2-JjXAhXIIMAKHXxiApgQtwIIJTAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuRW5WbMun2E&usg=AOvVaw3j9aa47aivn1GLLz9yPnxx
